@@ -1,0 +1,13 @@
+/*Каркас сайта*/
+body { 
+      background-color:#4c281e;
+        
+	  
+
+}	  
+#home_w iframe{
+	   width:100%;
+	   height:100%;
+	   position: absolute;
+	   
+}	   
